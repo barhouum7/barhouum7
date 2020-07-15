@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-563d7c" />
   <img src="https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-00758F" />
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-306998" />
-  <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-00758F" />
+  <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00758F" />
   <img src="https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F1502F" />
   <img src="https://img.shields.io/badge/Github-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-092e20" />
 </p>
