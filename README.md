@@ -1,4 +1,4 @@
-<p><h3 align="left">Hi there 👋</h3><span><a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbarhouum7%2Fbarhouum7"/></a></span></p><br>
+<p><h3 align="left">Hi there 👋</h3><span><a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbarhouum7%2Fbarhouum7" alt="Hits"/></a></span></p><br>
 <p align="center">
     <img src="https://i.imgur.com/9Qj8C8d.jpg" alt="coverImg"/><br>
     <strong>I am student of Computer Science at Higher Institute of Technological Studies of Tunisia. Experienced in Web Development using the most recent technologies, And I'm a self-taught learner and Open-source contributor.</strong>
