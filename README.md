@@ -121,7 +121,7 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-<span align="right"><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg" width="550px" height="350px" /></span>
+<span align="right"><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg" width="520px" height="350px" /></span>
 <hr />
 
 <!--START_SECTION:activity-->
