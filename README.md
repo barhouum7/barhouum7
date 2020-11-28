@@ -85,7 +85,7 @@
 <!--END_SECTION:waka-->
 </div>
 
-<figure><embed src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg"></img></figure>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2291](https://github.com/TheRenegadeCoder/sample-programs/issues/2291) in [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
