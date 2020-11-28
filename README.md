@@ -67,10 +67,14 @@
 <h3>📈Recent Activity:</h3>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=barhouum7&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=barhouum7&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-<<<<<<< HEAD
-=======
+
+<div align="center">
+<a>
+    <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
+</a>
+</div>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264841%20lines%20of%20code-blue)
@@ -113,22 +117,12 @@ No Activity Tracked This Week
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
-
+<img src="https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png" alt="Chart not found" align="left"/>
 
 <!--END_SECTION:waka-->
 
->>>>>>> de6ad7036762be54398b4ed63bd7b9bb8346bded
-<div align="center">
-<a>
-    <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
-</a>
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<figure><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg"></img></figure>
+<span align="right"><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg" width="550px" height="350px" /></span>
+<hr />
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2291](https://github.com/TheRenegadeCoder/sample-programs/issues/2291) in [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
