@@ -88,6 +88,11 @@
 </div>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2291](https://github.com/TheRenegadeCoder/sample-programs/issues/2291) in [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
+2. 🗣 Commented on [#2291](https://github.com/TheRenegadeCoder/sample-programs/issues/2291) in [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
+3. 🗣 Commented on [#109](https://github.com/StatusNeo/Hacktoberfest_2020/issues/109) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
+4. ❗️ Opened issue [#110](https://github.com/StatusNeo/Hacktoberfest_2020/issues/110) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
+5. 💪 Opened PR [#109](https://github.com/StatusNeo/Hacktoberfest_2020/pull/109) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
 <!--END_SECTION:activity-->
 
 <summary><strong>📫 How to reach me:</strong></summary>
