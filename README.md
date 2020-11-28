@@ -11,7 +11,7 @@
     <a href="https://github.com/barhouum7?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=barhouum7"><img src="https://img.shields.io/github/followers/barhouum7?color=1DA1F2&logo=github&style=for-the-badge"></a>
 </p>
 <p align="center">
-    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbarhouum7%2Fbarhouum7" alt="Hits"/></a>
+    <a href="https://github.com/barhouum7?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=barhouum7"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbarhouum7%2Fbarhouum7" alt="Hits" /></a>
     <!-- <a href="https://github.com/barhouum7"><img src="https://visitor-badge.glitch.me/badge?page_id=barhouum7.barhouum7" alt="visitors"></a> -->
 </p>
 
@@ -80,27 +80,27 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411757%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264841%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
-🌆 Daytime    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.13% 
-🌃 Evening    218 commits    ███████████░░░░░░░░░░░░░░   44.4% 
-🌙 Night      202 commits    ██████████░░░░░░░░░░░░░░░   41.14%
+🌞 Morning    38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
+🌆 Daytime    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
+🌃 Evening    218 commits    ███████████░░░░░░░░░░░░░░   44.22% 
+🌙 Night      202 commits    ██████████░░░░░░░░░░░░░░░   40.97%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
-Tuesday      71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-Wednesday    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
-Thursday     94 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
-Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
-Saturday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
-Sunday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.39%
+Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+Tuesday      71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
+Wednesday    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Thursday     94 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.07% 
+Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.53% 
+Saturday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Sunday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
 
 ```
 
@@ -117,10 +117,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
+**I Mostly Code in HTML** 
+
+```text
+HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
 <!--END_SECTION:waka-->
 **Timeline**
 
-<span align="left"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="450px" height="350px" /></span><!--START_SECTION:waka-->
+<span align="left"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="500px" height="350px" /></span><!--START_SECTION:waka-->
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png)
 <!--END_SECTION:waka-->
 
