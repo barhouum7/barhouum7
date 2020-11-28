@@ -80,27 +80,37 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411758%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+**🐱 My Github Data** 
+
+> 📦 81.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 56 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
-🌆 Daytime    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
-🌃 Evening    218 commits    ███████████░░░░░░░░░░░░░░   43.78% 
-🌙 Night      202 commits    ██████████░░░░░░░░░░░░░░░   40.56%
+🌞 Morning    44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+🌆 Daytime    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
+🌃 Evening    218 commits    ███████████░░░░░░░░░░░░░░   43.69% 
+🌙 Night      202 commits    ██████████░░░░░░░░░░░░░░░   40.48%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-Tuesday      71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
-Wednesday    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
-Thursday     94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
-Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
-Saturday     84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
-Sunday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24%
+Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
+Tuesday      71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+Wednesday    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.83% 
+Thursday     94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
+Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
+Saturday     85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
+Sunday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
 
 ```
 
@@ -116,6 +126,12 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
 ```
 
 **I Mostly Code in HTML** 
@@ -128,11 +144,14 @@ CSS                      3 repos             ███░░░░░░░░�
 Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
-<!--END_SECTION:waka-->
+
+
 **Timeline**
 
-<!--START_SECTION:waka-->
-![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png)<!--END_SECTION:waka-->&nbsp;&nbsp;<span><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="450px" height="350px" /></span>
+![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->&nbsp;&nbsp;<span><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="450px" height="350px" /></span>
 
 <hr />
 
