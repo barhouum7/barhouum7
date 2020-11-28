@@ -11,7 +11,7 @@
     <a href="https://github.com/barhouum7?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=barhouum7"><img src="https://img.shields.io/github/followers/barhouum7?color=1DA1F2&logo=github&style=for-the-badge"></a>
 </p>
 <p align="center">
-    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbarhouum7%2Fbarhouum7" alt="Hits"/></a>
+    <a href="https://github.com/barhouum7?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=barhouum7"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbarhouum7%2Fbarhouum7" alt="Hits" /></a>
     <!-- <a href="https://github.com/barhouum7"><img src="https://visitor-badge.glitch.me/badge?page_id=barhouum7.barhouum7" alt="visitors"></a> -->
 </p>
 
