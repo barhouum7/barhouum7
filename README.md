@@ -145,13 +145,15 @@ Python                   2 repos             ██░░░░░░░░░�
 
 ```
 
-
 **Timeline**
+<div align="center">
 
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
+</div>
 
-<!--END_SECTION:waka-->&nbsp;&nbsp;<span><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="450px" height="350px" /></span>
+<!--END_SECTION:waka-->
+<div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
 <hr />
 
