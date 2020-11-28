@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="https://hdwallpaperim.com/wp-content/uploads/2017/08/24/102751-glider-black-hacking.jpg" alt="coverImg"/><br>
+    <img src="https://i.imgur.com/BEU0C5o.png" data-canonical-src="https://i.imgur.com/BEU0C5o.png" alt="coverImg"/><br>
     <strong>I am student of Computer Science at Higher Institute of Technological Studies of Tunisia. Experienced in Web Development using the most recent technologies, Linux System Administration and Computer Networking. Also, I'm a Self-taught Programmer and I love the open-source world and try my best to contribute to it!</strong>
 </p><br>
 
@@ -67,31 +67,27 @@
 
 <h3>📈Recent Activity:</h3>
 
-<!--START_SECTION:activity-->
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=barhouum7&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
-<!--START_SECTION:activity-->
 <a>
-    <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
+    <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
 </a>
-<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 <a href="https://wakatime.com/@barhouum7">
-    <img alt="Ibrahim's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=barhouum7&theme=dark&layout=compact" />
+    <img alt="Ibrahim's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=barhouum7&theme=dark&layout=compact&hide_border=true" />
 </a>
 <!--END_SECTION:waka-->
 </div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <summary><strong>📫 How to reach me:</strong></summary>
 <span><a href="http://bhmbsibrahim.ml"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="3.5%"/></a></span>&nbsp;&nbsp;
