@@ -128,14 +128,11 @@ CSS                      3 repos             ███░░░░░░░░�
 Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
-
-
+<!--END_SECTION:waka-->
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->&nbsp;&nbsp;<span><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="450px" height="350px" /></span>
+<!--START_SECTION:waka-->
+![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png)<!--END_SECTION:waka-->&nbsp;&nbsp;<span><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="450px" height="350px" /></span>
 
 <hr />
 
