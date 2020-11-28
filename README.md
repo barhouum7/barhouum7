@@ -69,6 +69,56 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=barhouum7&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+<<<<<<< HEAD
+=======
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264841%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
+🌆 Daytime    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
+🌃 Evening    218 commits    ███████████░░░░░░░░░░░░░░   44.95% 
+🌙 Night      202 commits    ██████████░░░░░░░░░░░░░░░   41.65%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Tuesday      71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Wednesday    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+Thursday     94 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
+Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
+Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Sunday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.52%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Tunis
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
+
+>>>>>>> de6ad7036762be54398b4ed63bd7b9bb8346bded
 <div align="center">
 <a>
     <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
