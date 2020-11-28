@@ -69,16 +69,14 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=barhouum7&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <div align="center">
 <a>
     <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
 </a>
-<a href="https://wakatime.com/@barhouum7"><img alt="Ibrahim's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=barhouum7&theme=dark&layout=compact&hide_border=true" /></a>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <figure><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg"></img></figure>
 
