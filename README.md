@@ -117,12 +117,12 @@ No Activity Tracked This Week
 
 **Timeline**
 
+<span align="left"><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg" width="450px" height="350px" /></span>
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
 
-<span align="right"><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg" width="520px" height="350px" /></span>
 <hr />
 
 <!--START_SECTION:activity-->
