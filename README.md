@@ -81,15 +81,15 @@
 
 <div align="center">
 <!--START_SECTION:activity-->
-    <a>
-        <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
-    </a>
+<a>
+    <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
+</a>
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-    <a href="https://wakatime.com/@barhouum7">
-        <img alt="Ibrahim's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=barhouum7&theme=dark&layout=compact" />
-    </a>
+<a href="https://wakatime.com/@barhouum7">
+    <img alt="Ibrahim's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=barhouum7&theme=dark&layout=compact" />
+</a>
 <!--END_SECTION:waka-->
 </div>
 
