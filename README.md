@@ -70,11 +70,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=barhouum7&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<div align="center">
+<h3 align="center">🔮 Ibrahim's Github Stats</h3>
+<details align="center">
+<summary></summary>
 <a>
     <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
 </a>
-</div>
+</details>
+<br />
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411757%20lines%20of%20code-blue)
@@ -117,7 +120,7 @@ No Activity Tracked This Week
 
 **Timeline**
 
-<span align="left"><img src="https://wakatime.com/share/@barhouum7/c4d9860e-8ad5-4ce9-8f66-44eb01adb3e8.svg" width="450px" height="350px" /></span>
+<span align="left"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="450px" height="350px" /></span>
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
