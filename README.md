@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/Github-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-092e20" />
 </p> -->
 
+<hr>
 <h3>📈Recent Activity:</h3>
 
 <p align="center">
