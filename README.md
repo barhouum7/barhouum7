@@ -80,18 +80,8 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264841%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 📦 81.2 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 56 Public Repositories
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -126,13 +116,6 @@ YAML                     1 hr 25 mins        █████░░░░░░�
 
 🔥 Editors: 
 VS Code                  6 hrs 15 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-barhouum7                6 hrs 15 mins       █████████████████████████   99.78% 
-sample-programs          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
-
-💻 Operating System: 
-Windows                  6 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
