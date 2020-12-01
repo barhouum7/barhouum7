@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: [self-hosted, Windows, X64]
+    runs-on: ubuntu-latest
     name: Update this repos README with recent activity
 
     steps:
