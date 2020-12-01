@@ -17,3 +17,4 @@ jobs:
         with:
           COMMIT_MSG: "⚡ Update README with the recent activity"
           MAX_LINES: 10
+          GH_USERNAME: barhouum7
