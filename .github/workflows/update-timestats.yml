@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     name: Update Readme with Metrics
-    runs-on: [self-hosted, linux, ARM64]
+    runs-on: self-hosted
     steps:
       - uses: anmol098/waka-readme-stats@master
         env:
