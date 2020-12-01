@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     name: Update Readme with Metrics
-    runs-on: ubuntu-18.04
+    runs-on: [self-hosted, linux, ARM64]
     steps:
       - uses: anmol098/waka-readme-stats@master
         env:
