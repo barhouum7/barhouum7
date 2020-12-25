@@ -17,7 +17,7 @@
 
 <p align="center">
     <img src="https://i.imgur.com/BEU0C5o.png" data-canonical-src="https://i.imgur.com/BEU0C5o.png" alt="coverImg"/><br>
-    <strong>I am student of Computer Science at Higher Institute of Technological Studies of Tunisia. Experienced in Web Development using the most recent technologies, Linux System Administration and Computer Networking. Also, I'm a Self-taught Programmer and I love the open-source world and try my best to contribute to it!</strong>
+    <strong>I am a student currently pursuing a Bachelor's degree in Computer Science at the Higher Institute of Technological Studies of Tunisia. Experienced in Web Development using the most recent technologies, Linux System Administration, and Computer Networking. Also, I'm a Self-taught Programmer and I love the open-source world and try my best to contribute to it!</strong>
 </p><br>
 
 `📧 bb.med2000@gmail.com`<br/>
