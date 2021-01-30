@@ -3,10 +3,10 @@
     <h2 align="center">Have a look at the Demo: https://mathuniverse.herokuapp.com/</h2>
 </div>
 
-<h3 align="left">Hi there 👋</h3>
+<h3 align="center">Hi there 👋</h3>
 
 <div align="center">
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Here's a little about me😃</h2></div>
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Here's a little about me😃</h2></div>
 
 <p align="center">
     <a href="https://github.com/barhouum7"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" alt="PRs Welcome"></a> 
