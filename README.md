@@ -1,6 +1,11 @@
 <div>
-    <h1 align="center">Projects that I'm working on right now:<br />MERN stack E-learning Platform</h1>
-    <h2 align="center">Have a look at the Demo: https://mathuniverse.herokuapp.com/</h2>
+    <h1 align="center">📊 Most recent projects that I'm working on:</h1>
+    <br /><h3 align="center">A Real-time Chat Application called Students Cyber Space developed using Socket.io, Node.js, and React.js
+    <br />Have a look at the Demo: https://students-cyber-space.herokuapp.com/</h3>
+    <br /><h3 align="center">MERN stack E-learning Platform
+    <br />Have a look at the Demo: https://mathuniverse.herokuapp.com/</h3>
+    <br /><h3 align="center">A Phone Book management system using bash scripting, and I've used a cloud database service(MongoDB Atlas)
+    <br />Have a look at the Demo: https://youtube.com/watch?v=v4kmgBx_E70</h3>
 </div>
 
 <h3 align="center">Hi there 👋</h3>
