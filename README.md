@@ -156,8 +156,8 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/barhouum7/TheSweetLibrary/pull/1) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
-2. 🗣 Commented on [#627](https://github.com/sourcerer-io/sourcerer-app/issues/627) in [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app)
+1. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
+2. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
 3. 🗣 Commented on [#627](https://github.com/sourcerer-io/sourcerer-app/issues/627) in [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app)
 4. ❗️ Opened issue [#110](https://github.com/StatusNeo/Hacktoberfest_2020/issues/110) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
 5. 💪 Opened PR [#109](https://github.com/StatusNeo/Hacktoberfest_2020/pull/109) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
