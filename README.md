@@ -123,13 +123,13 @@ Sunday       71 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Tunis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     5 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          5 mins              █████████████████████████   100.0%
 
 ```
 
