@@ -156,9 +156,9 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/2) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
-2. 🎉 Merged PR [#2](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/2) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
-3. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
+1. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
+2. 🎉 Merged PR [#2](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/2) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
+3. 🎉 Merged PR [#2](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/2) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
 4. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
 5. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
 <!--END_SECTION:activity-->
