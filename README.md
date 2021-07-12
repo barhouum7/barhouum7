@@ -123,13 +123,19 @@ Sunday       76 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Tunis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     47 mins             ███████████░░░░░░░░░░░░░░   46.06% 
+JavaScript               35 mins             ████████░░░░░░░░░░░░░░░░░   34.86% 
+CSS                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
+Vue.js                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 42 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Simple-VueJS-App         1 hr 40 mins        ████████████████████████░   97.79% 
+ivast-web-page           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+VueJS-Task-Tracker-APP.gi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -150,7 +156,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
