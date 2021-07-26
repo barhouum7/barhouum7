@@ -123,15 +123,13 @@ Sunday       76 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Tunis
 
 💬 Programming Languages: 
-Vue.js                   7 mins              ████████████████████░░░░░   81.56% 
-JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ivast-web-page           9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -152,7 +150,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
