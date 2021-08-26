@@ -165,7 +165,7 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/rstarmer/openstack-kolla-ansible/issues/1) in [rstarmer/openstack-kolla-ansible](https://github.com/rstarmer/openstack-kolla-ansible)
+1. 🗣 Commented on [#600](https://github.com/chocolatey/ChocolateyGUI/issues/600) in [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)
 2. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
 3. 🎉 Merged PR [#3](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/3) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
 4. 🎉 Merged PR [#2](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/2) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
