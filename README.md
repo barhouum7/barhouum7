@@ -165,8 +165,8 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#600](https://github.com/chocolatey/ChocolateyGUI/issues/600) in [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)
-2. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
+1. 🗣 Commented on [#38317](https://github.com/nodejs/node/issues/38317) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#600](https://github.com/chocolatey/ChocolateyGUI/issues/600) in [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)
 3. 🎉 Merged PR [#3](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/3) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
 4. 🎉 Merged PR [#2](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/2) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
 5. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
