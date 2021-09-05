@@ -1,10 +1,14 @@
 <div>
     <h1 align="center">📊 Most recent projects that I'm working on:</h1>
-    <br /><h3 align="center">A Real-time Chat Application called Students Cyber Space developed using Socket.io, Node.js, and React.js
+    <br /><h3 align="center">A UK company's official website was developed using <i>Vue.js</i> <i>SSR Nuxt.js</i>
+    <br />Have a look at the website: https://cityivast.co.uk/</h3>
+    <br /><h3 align="center">A simple <i>VueJS</i> App - Like a Random User Generator using RandomUser <i>API</i>
+    <br />Have a look at the Demo: https://barhouum7.github.io/Simple-VueJS-App.github.io/</h3>
+    <br /><h3 align="center">A Real-time Chat Application called Students Cyber Space developed using <i>Socket.io, Node.js, and React.js</i>
     <br />Have a look at the Demo: https://students-cyber-space.herokuapp.com/</h3>
     <br /><h3 align="center">MERN stack E-learning Platform
     <br />Have a look at the Demo: https://mathuniverse.herokuapp.com/</h3>
-    <br /><h3 align="center">A Phone Book management system using bash scripting, and I've used a cloud database service(MongoDB Atlas)
+    <br /><h3 align="center">A Phone Book management system using <i>bash scripting, and I've used a cloud database service(MongoDB Atlas)</i>
     <br />Have a look at the Demo: https://youtube.com/watch?v=v4kmgBx_E70</h3>
 </div>
 
@@ -92,27 +96,27 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-674543%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-659054%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-🌆 Daytime    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-🌃 Evening    254 commits    █████████░░░░░░░░░░░░░░░░   37.74% 
-🌙 Night      281 commits    ██████████░░░░░░░░░░░░░░░   41.75%
+🌞 Morning    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+🌆 Daytime    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+🌃 Evening    253 commits    █████████░░░░░░░░░░░░░░░░   37.65% 
+🌙 Night      281 commits    ██████████░░░░░░░░░░░░░░░   41.82%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
-Wednesday    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
-Thursday     157 commits    █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-Friday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
-Saturday     112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
-Sunday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59%
+Monday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
+Wednesday    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+Thursday     157 commits    █████░░░░░░░░░░░░░░░░░░░░   23.36% 
+Friday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
+Saturday     112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Sunday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
 
 ```
 
@@ -133,14 +137,14 @@ jamstack-authn-todo-app  8 mins              ███████████�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in HTML** 
 
 ```text
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
 
 ```
 
