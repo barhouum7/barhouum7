@@ -1,14 +1,16 @@
 <div>
     <h1 align="center">📊 Most recent projects that I'm working on:</h1>
-    <br /><h3 align="center">A UK company's official website was developed using <i>Vue.js</i> <i>SSR Nuxt.js</i>
+    <br /><h3 align="center">Another awesome side project using the modern web <b><i>JAMStack</i></b> - Implementing <b><i>(Next.js, AirTable, Auth0, Tailwind CSS)</b></i>
+    <br />Have a look at the Demo: https://barhouum7.github.io/JAMStack-Authn-ToDo-App.github.io/</h3>
+    <br /><h3 align="center">A UK company's official website was developed using <b><i>Vue.js</i></b> <b><i>SSR Nuxt.js</i></b>
     <br />Have a look at the website: https://cityivast.co.uk/</h3>
-    <br /><h3 align="center">A simple <i>VueJS</i> App - Like a Random User Generator using RandomUser <i>API</i>
+    <br /><h3 align="center">A simple <b><i>VueJS</i></b> App - Like a Random User Generator using RandomUser <b><i>API</i></b>
     <br />Have a look at the Demo: https://barhouum7.github.io/Simple-VueJS-App.github.io/</h3>
-    <br /><h3 align="center">A Real-time Chat Application called Students Cyber Space developed using <i>Socket.io, Node.js, and React.js</i>
+    <br /><h3 align="center">A Real-time Chat Application called Students Cyber Space developed using <b><i>Socket.io, Node.js, and React.js</i></b>
     <br />Have a look at the Demo: https://students-cyber-space.herokuapp.com/</h3>
     <br /><h3 align="center">MERN stack E-learning Platform
     <br />Have a look at the Demo: https://mathuniverse.herokuapp.com/</h3>
-    <br /><h3 align="center">A Phone Book management system using <i>bash scripting, and I've used a cloud database service(MongoDB Atlas)</i>
+    <br /><h3 align="center">A Phone Book management system using <b><i>bash scripting, and I've used a cloud database service(MongoDB Atlas)</i></b>
     <br />Have a look at the Demo: https://youtube.com/watch?v=v4kmgBx_E70</h3>
 </div>
 
