@@ -123,13 +123,13 @@ Sunday       77 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Tunis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 8 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+jamstack-authn-todo-app  8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -150,7 +150,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2021
+ Last Updated on 05/09/2021
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
