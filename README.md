@@ -1,7 +1,7 @@
 <div>
     <h1 align="center">📊 Most recent projects that I'm working on:</h1>
     <br /><h3 align="center">Another awesome side project using the modern web <b><i>JAMStack</i></b> - Implementing <b><i>(Next.js, AirTable, Auth0, Tailwind CSS)</b></i>
-    <br />Have a look at the Demo: https://barhouum7.github.io/JAMStack-Authn-ToDo-App.github.io/</h3>
+    <br />Have a look at the Demo: https://jamstack-authn-todo.netlify.app/</h3>
     <br /><h3 align="center">A UK company's official website was developed using <b><i>Vue.js</i></b> <b><i>SSR Nuxt.js</i></b>
     <br />Have a look at the website: https://cityivast.co.uk/</h3>
     <br /><h3 align="center">A simple <b><i>VueJS</i></b> App - Like a Random User Generator using RandomUser <b><i>API</i></b>
