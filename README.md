@@ -169,8 +169,8 @@ Java                     3 repos             ██░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#25276](https://github.com/vercel/next.js/issues/25276) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#570](https://github.com/surmon-china/vue-awesome-swiper/issues/570) in [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
-3. 🗣 Commented on [#38317](https://github.com/nodejs/node/issues/38317) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#1190](https://github.com/tailwindlabs/tailwindcss/issues/1190) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+3. 🗣 Commented on [#25276](https://github.com/vercel/next.js/issues/25276) in [vercel/next.js](https://github.com/vercel/next.js)
 4. 🗣 Commented on [#600](https://github.com/chocolatey/ChocolateyGUI/issues/600) in [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)
 5. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
 <!--END_SECTION:activity-->
