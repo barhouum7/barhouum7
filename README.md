@@ -7,7 +7,7 @@
     <br /><h3 align="center">A simple <b><i>VueJS</i></b> App - Like a Random User Generator using RandomUser <b><i>API</i></b>
     <br />Have a look at the Demo: https://barhouum7.github.io/Simple-VueJS-App.github.io/</h3>
     <br /><h3 align="center">A Real-time Chat Application called Students Cyber Space developed using <b><i>Socket.io, Node.js, and React.js</i></b>
-    <br />Have a look at the Demo: https://students-cyber-space.herokuapp.com/</h3>
+    <br />Have a look at the Demo: https://cityivast-chat-space.herokuapp.com/</h3>
     <br /><h3 align="center">MERN stack E-learning Platform
     <br />Have a look at the Demo: https://mathuniverse.herokuapp.com/</h3>
     <br /><h3 align="center">A Phone Book management system using <b><i>bash scripting, and I've used a cloud database service(MongoDB Atlas)</i></b>
