@@ -129,13 +129,18 @@ Sunday       82 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Tunis
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      2 hrs 43 mins       ██████████████░░░░░░░░░░░   59.08% 
+JavaScript               59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64% 
+JSON                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 36 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Realtime-Chat-App        4 hrs 34 mins       ████████████████████████░   99.22% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
 ```
 
@@ -156,7 +161,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2021
+ Last Updated on 08/10/2021
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
