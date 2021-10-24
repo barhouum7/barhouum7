@@ -131,8 +131,7 @@ Sunday       82 commits     ███░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 Bash                     6 mins              ████████████████░░░░░░░░░   66.22% 
 Markdown                 2 mins              ███████░░░░░░░░░░░░░░░░░░   31.42% 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 🔥 Editors: 
 VS Code                  9 mins              █████████████████████████   100.0%
@@ -160,7 +159,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
