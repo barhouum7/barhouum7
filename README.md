@@ -165,8 +165,8 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38317](https://github.com/nodejs/node/issues/38317) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#38317](https://github.com/nodejs/node/issues/38317) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#591](https://github.com/datastax/java-driver/issues/591) in [datastax/java-driver](https://github.com/datastax/java-driver)
+2. 🗣 Commented on [#591](https://github.com/datastax/java-driver/issues/591) in [datastax/java-driver](https://github.com/datastax/java-driver)
 3. 🗣 Commented on [#38317](https://github.com/nodejs/node/issues/38317) in [nodejs/node](https://github.com/nodejs/node)
 4. 🗣 Commented on [#600](https://github.com/chocolatey/ChocolateyGUI/issues/600) in [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)
 5. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
