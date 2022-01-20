@@ -98,16 +98,16 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2056%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-647%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
-🌆 Daytime    54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-🌃 Evening    232 commits    █████████░░░░░░░░░░░░░░░░   37.97% 
+🌆 Daytime    56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+🌃 Evening    230 commits    █████████░░░░░░░░░░░░░░░░   37.64% 
 🌙 Night      257 commits    ██████████░░░░░░░░░░░░░░░   42.06%
 
 ```
@@ -115,9 +115,9 @@
 
 ```text
 Monday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Tuesday      81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
 Wednesday    106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
-Thursday     147 commits    ██████░░░░░░░░░░░░░░░░░░░   24.06% 
+Thursday     149 commits    ██████░░░░░░░░░░░░░░░░░░░   24.39% 
 Friday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
 Saturday     104 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
 Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78%
@@ -158,7 +158,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2022 14:16:59 UTC
+ Last Updated on 20/01/2022 15:20:57 UTC
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
