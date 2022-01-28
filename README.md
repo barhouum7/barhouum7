@@ -98,6 +98,8 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2056%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -129,17 +131,13 @@ Sunday       72 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Tunis
 
 💬 Programming Languages: 
-HTML                     3 hrs 23 mins       █████████████████████░░░░   85.76% 
-SCSS                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 57 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BHMBSIbrahim.github.io   3 hrs 57 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -160,7 +158,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 23:15:09 UTC
+ Last Updated on 28/01/2022 00:42:13 UTC
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
