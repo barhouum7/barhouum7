@@ -163,7 +163,7 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/barhouum7/BHMBSIbrahim.github.io/pull/3) in [barhouum7/BHMBSIbrahim.github.io](https://github.com/barhouum7/BHMBSIbrahim.github.io)
+1. 🎉 Merged PR [#7](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/7) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
 2. 🗣 Commented on [#591](https://github.com/datastax/java-driver/issues/591) in [datastax/java-driver](https://github.com/datastax/java-driver)
 3. 🗣 Commented on [#38317](https://github.com/nodejs/node/issues/38317) in [nodejs/node](https://github.com/nodejs/node)
 4. 🗣 Commented on [#600](https://github.com/chocolatey/ChocolateyGUI/issues/600) in [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)
