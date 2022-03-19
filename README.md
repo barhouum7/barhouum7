@@ -36,7 +36,7 @@
     <strong>I am a student currently pursuing a Bachelor's degree in Computer Science at the Higher Institute of Technological Studies of Tunisia. Experienced in Web Development using the most recent technologies, Linux System Administration, and Computer Networking. Also, I'm a Self-taught Programmer and I love the open-source world and try my best to contribute to it!</strong>
 </p><br>
 
-`📧 bb.med2000@gmail.com`<br/>
+`📧 contact@ibrahimbhmbs.tech`<br/>
 `🏠 Nabeul, Tunisia`
 <br />
 
