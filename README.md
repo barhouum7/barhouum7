@@ -13,6 +13,19 @@
     <br /><h3 align="center">A Phone Book management system using <b><i>bash scripting, and I've used a cloud database service(MongoDB Atlas)</i></b>
     <br />Have a look at the Demo: https://youtube.com/watch?v=v4kmgBx_E70</h3>
 </div>
+<br />
+
+<summary><strong>📫 How to reach me:</strong></summary>
+<span><a href="https://ibrahimio.codes"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="3.5%"/></a></span>&nbsp;&nbsp;
+<span><a href="https://www.linkedin.com/in/ibrahimbs/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a></span>&nbsp;&nbsp;
+<span><a href="https://twitter.com/MindH4Q3Rr"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a></span>&nbsp;&nbsp;
+<span><a href="https://www.instagram.com/mindh4q3r/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a></span>&nbsp;&nbsp;
+<span><a href="https://www.facebook.com/mindh4q3r"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></a></span>
+
+`📧 contact@ibrahimbhmbs.tech`<br/>
+`🏠 Nabeul, Tunisia`
+
+<br />
 
 <h3 align="center">Hi there 👋</h3>
 
@@ -35,10 +48,6 @@
     <img src="https://i.imgur.com/BEU0C5o.png" data-canonical-src="https://i.imgur.com/BEU0C5o.png" alt="coverImg"/><br>
     <strong>I am a student currently pursuing a Bachelor's degree in Computer Science at the Higher Institute of Technological Studies of Tunisia. Experienced in Web Development using the most recent technologies, Linux System Administration, and Computer Networking. Also, I'm a Self-taught Programmer and I love the open-source world and try my best to contribute to it!</strong>
 </p><br>
-
-`📧 contact@ibrahimbhmbs.tech`<br/>
-`🏠 Nabeul, Tunisia`
-<br />
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools</h3>
 
@@ -174,12 +183,6 @@ Java                     3 repos             ██░░░░░░░░░�
 5. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
 <!--END_SECTION:activity-->
 
-<summary><strong>📫 How to reach me:</strong></summary>
-<span><a href="https://ibrahimbhmbs.me"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="3.5%"/></a></span>&nbsp;&nbsp;
-<span><a href="https://www.linkedin.com/in/ibrahimbs/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a></span>&nbsp;&nbsp;
-<span><a href="https://twitter.com/MindH4Q3Rr"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a></span>&nbsp;&nbsp;
-<span><a href="https://www.instagram.com/mindh4q3r/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a></span>&nbsp;&nbsp;
-<span><a href="https://www.facebook.com/clubistanooobarhoum"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></a></span>
 
 
 
