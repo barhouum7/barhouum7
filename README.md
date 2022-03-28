@@ -180,9 +180,9 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/6) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
-2. 🎉 Merged PR [#8](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/8) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
-3. 🗣 Commented on [#38317](https://github.com/nodejs/node/issues/38317) in [nodejs/node](https://github.com/nodejs/node)
+1. 🎉 Merged PR [#4](https://github.com/barhouum7/TheSweetLibrary/pull/4) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
+2. 🎉 Merged PR [#6](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/6) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
+3. 🎉 Merged PR [#8](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/8) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
 4. 🗣 Commented on [#600](https://github.com/chocolatey/ChocolateyGUI/issues/600) in [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)
 5. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
 <!--END_SECTION:activity-->
