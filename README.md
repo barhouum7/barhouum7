@@ -184,11 +184,11 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/barhouum7/TheSweetLibrary/pull/5) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
-2. 🎉 Merged PR [#4](https://github.com/barhouum7/TheSweetLibrary/pull/4) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
-3. 🎉 Merged PR [#6](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/6) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
-4. 🎉 Merged PR [#8](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io/pull/8) in [barhouum7/JS-Neumorphic-Calc.github.io](https://github.com/barhouum7/JS-Neumorphic-Calc.github.io)
-5. 🗣 Commented on [#297](https://github.com/athityakumar/colorls/issues/297) in [athityakumar/colorls](https://github.com/athityakumar/colorls)
+1. 🎉 Merged PR [#6](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/6) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
+2. 🎉 Merged PR [#7](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/7) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
+3. 🎉 Merged PR [#8](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/8) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
+4. 🎉 Merged PR [#2](https://github.com/barhouum7/TheSweetLibrary/pull/2) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
+5. 🎉 Merged PR [#3](https://github.com/barhouum7/TheSweetLibrary/pull/3) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
 <!--END_SECTION:activity-->
 
 
