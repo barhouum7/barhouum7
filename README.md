@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">📊 Most recent projects that I'm working on:</h1>
+    <h1 align="center">📊 Most recent projects that I'm working on: ( 📅 Last Updated on Sep 20, 2021 )</h1>
     <br /><h3 align="center">Another awesome side project using the modern web <b><i>JAMStack</i></b> - Implementing <b><i>(Next.js, AirTable, Auth0, Tailwind CSS)</b></i>
     <br />Have a look at the Demo: https://jamstack-authn-todo.netlify.app/</h3>
     <br /><h3 align="center">A UK company's official website was developed using <b><i>Vue.js</i></b> <b><i>SSR Nuxt.js</i></b>
