@@ -1,12 +1,15 @@
 <div>
     <h1 align="center">📊 Most recent projects that I'm working on: ( 📅 Last Updated on Sep 20, 2021 )</h1>
-    <br /><h3 align="center">Another awesome side project using the modern web <b><i>JAMStack</i></b> - Implementing <b><i>(Next.js, AirTable, Auth0, Tailwind CSS)</b></i>
+    <br />
+    <h3 align="center">A <b><i>censorship-resistant</i></b> file storage Decentralized Application (Dapp) using <b><i>Ethereum Blockchain</i></b>
+    <br />Have a look at the Demo: https://barhouum7.github.io/nextgeneration-storage/</h3>
+    <br />
+    <h3 align="center">Another awesome side project using the modern web <b><i>JAMStack</i></b> - Implementing <b><i>(Next.js, AirTable, Auth0, Tailwind CSS)</b></i>
     <br />Have a look at the Demo: https://jamstack-authn-todo.netlify.app/</h3>
     <br /><h3 align="center">A UK company's official website was developed using <b><i>Vue.js</i></b> <b><i>SSR Nuxt.js</i></b>
     <br />Have a look at the website: https://cityivast.co.uk/</h3>
-    <br /><h3 align="center">A simple <b><i>VueJS</i></b> App - Like a Random User Generator using RandomUser <b><i>API</i></b>
-    <br />Have a look at the Demo: https://barhouum7.github.io/Simple-VueJS-App.github.io/</h3>
-    <br /><h3 align="center">A Real-time Chat Application called Students Cyber Space developed using <b><i>Socket.io, Node.js, and React.js</i></b>
+    <br />
+    <h3 align="center">A Real-time Chat Application called Students Cyber Space developed using <b><i>Socket.io, Node.js, and React.js</i></b>
     <br />Have a look at the Demo: https://cityivast-chat-space.herokuapp.com/</h3>
     <br /><h3 align="center">MERN stack E-learning Platform
     <br />Have a look at the Demo: https://thenewelearn.herokuapp.com/</h3>
