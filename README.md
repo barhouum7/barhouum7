@@ -184,8 +184,8 @@ Java                     3 repos             ██░░░░░░░░░�
 <hr />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/6) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
-2. 🎉 Merged PR [#7](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/7) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
+1. 🗣 Commented on [#3357](https://github.com/trufflesuite/truffle/issues/3357) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
+2. 🗣 Commented on [#3468](https://github.com/trufflesuite/truffle/issues/3468) in [trufflesuite/truffle](https://github.com/trufflesuite/truffle)
 3. 🎉 Merged PR [#8](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/8) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
 4. 🎉 Merged PR [#2](https://github.com/barhouum7/TheSweetLibrary/pull/2) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
 5. 🎉 Merged PR [#3](https://github.com/barhouum7/TheSweetLibrary/pull/3) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
