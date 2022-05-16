@@ -110,7 +110,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-655%20Thousand%20lines%20of%20code-blue)
 
@@ -176,7 +176,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 20:23:09 UTC
+ Last Updated on 16/05/2022 21:16:04 UTC
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
