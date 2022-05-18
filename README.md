@@ -186,7 +186,7 @@ Java                     3 repos             ██░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#25197](https://github.com/solana-labs/solana/issues/25197) in [solana-labs/solana](https://github.com/solana-labs/solana)
 2. 🗣 Commented on [#25197](https://github.com/solana-labs/solana/issues/25197) in [solana-labs/solana](https://github.com/solana-labs/solana)
-3. 🎉 Merged PR [#8](https://github.com/barhouum7/JS-TicTacToe.github.io/pull/8) in [barhouum7/JS-TicTacToe.github.io](https://github.com/barhouum7/JS-TicTacToe.github.io)
+3. 🗣 Commented on [#25197](https://github.com/solana-labs/solana/issues/25197) in [solana-labs/solana](https://github.com/solana-labs/solana)
 4. 🎉 Merged PR [#2](https://github.com/barhouum7/TheSweetLibrary/pull/2) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
 5. 🎉 Merged PR [#3](https://github.com/barhouum7/TheSweetLibrary/pull/3) in [barhouum7/TheSweetLibrary](https://github.com/barhouum7/TheSweetLibrary)
 <!--END_SECTION:activity-->
