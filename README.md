@@ -110,7 +110,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-666%20Thousand%20lines%20of%20code-blue)
 
@@ -143,19 +143,19 @@ Sunday       72 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Tunis
 
 💬 Programming Languages: 
-JavaScript               56 mins             ████████████████░░░░░░░░░   66.48% 
-CSS                      28 mins             ████████░░░░░░░░░░░░░░░░░   33.38% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
+JavaScript               1 hr 2 mins         ███████████████░░░░░░░░░░   60.56% 
+CSS                      40 mins             █████████░░░░░░░░░░░░░░░░   39.32% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
 Solidity                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.0%
+VS Code                  1 hr 43 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-D-Document-Storage       1 hr 25 mins        █████████████████████████   100.0%
+D-Document-Storage       1 hr 43 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.0%
+Windows                  1 hr 43 mins        █████████████████████████   100.0%
 
 ```
 
@@ -176,7 +176,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/06/2022 23:16:06 UTC
+ Last Updated on 16/06/2022 01:08:59 UTC
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
