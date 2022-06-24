@@ -154,7 +154,7 @@ VS Code                  4 hrs 9 mins        ███████████�
 D-Document-Storage       4 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.0%
+WSL                      4 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -175,7 +175,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/barhouum7/barhouum7/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2022 01:10:27 UTC
+ Last Updated on 24/06/2022 03:41:40 UTC
 <!--END_SECTION:waka-->
 <div align="center"><img src="https://wakatime.com/share/@barhouum7/42eacb5a-d259-4b21-a70f-d336ee8b18ec.png" width="600px" height="350px" /></div>
 
