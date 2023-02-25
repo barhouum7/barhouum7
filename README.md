@@ -3,27 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=GillSansMT&size=17&duration=3000&pause=500&multiline=true&width=650&height=80&lines=Ibrahim+BHMBS;Tech+Enthusiast;Self-taught+JavaScript+%7C+Blockchain+Developer+%7C+IT+Content+Creator;" alt="Typing SVG" />
 </a>
 </p>
-<div>
-    <h1 align="center">📊 Most recent projects that I'm working on: ( 📅 Last Updated on Sep 20, 2021 )</h1>
-    <br />
-    <h3 align="center">AskIboAi is a ChatGPT AI App using Vanilla JavaScript built with OpenAI Davinci Codex Model
-    <br />Have a look at the Demo: https://ask-chatgpt.programmerslife.site</h3>
-    <br />
-    <h3 align="center">A <b><i>censorship-resistant</i></b> file storage Decentralized Application (Dapp) using <b><i>Ethereum Blockchain</i></b>
-    <br />Have a look at the Demo: https://barhouum7.github.io/nextgeneration-storage/</h3>
-    <br />
-    <h3 align="center">Another awesome side project using the modern web <b><i>JAMStack</i></b> - Implementing <b><i>(Next.js, AirTable, Auth0, Tailwind CSS)</b></i>
-    <br />Have a look at the Demo: https://jamstack-authn-todo.netlify.app/</h3>
-    <br /><h3 align="center">A UK company's official website was developed using <b><i>Vue.js</i></b> <b><i>SSR Nuxt.js</i></b>
-    <br />Have a look at the website: https://cityivast.co.uk/</h3>
-    <br />
-    <h3 align="center">A Real-time Chat Application called Students Cyber Space developed using <b><i>Socket.io, Node.js, and React.js</i></b>
-    <br />Have a look at the Demo: https://cityivast-chat-space.herokuapp.com/</h3>
-    <br /><h3 align="center">MERN stack E-learning Platform
-    <br />Have a look at the Demo: https://thenewelearn.herokuapp.com/</h3>
-    <br /><h3 align="center">A Phone Book management system using <b><i>bash scripting, and I've used a cloud database service(MongoDB Atlas)</i></b>
-    <br />Have a look at the Demo: https://youtube.com/watch?v=v4kmgBx_E70</h3>
-</div>
+<h1 align="center">📊 Most recent projects that I'm working on: ( 📅 Last Updated on Feb 25, 2023 )</h1>
+<br />
+&nbsp;
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=AskIboAi&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/AskIboAi) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=nextgeneration-storage&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/nextgeneration-storage) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=Realtime-Chat-App&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/Realtime-Chat-App)
+
 <br />
 
 <summary><strong>📫 How to reach me:</strong></summary>
@@ -33,8 +19,8 @@
 <span><a href="https://www.instagram.com/mindh4q3r/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a></span>&nbsp;&nbsp;
 <span><a href="https://www.facebook.com/mindh4q3r"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></a></span>
 
-`📧 contact@ibrahimbhmbs.tech`<br/>
-`🏠 Nabeul, Tunisia`
+`📧 contact@programmerslife.site`<br/>
+`🏠 Tunisia`
 
 <br />
 
