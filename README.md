@@ -1,73 +1,91 @@
-<p align="center"> 
-  <a href="https://github.com/barhouum7">
-    <img src="https://readme-typing-svg.demolab.com?font=GillSansMT&size=17&duration=3000&pause=500&multiline=true&width=650&height=80&lines=Ibrahim+BHMBS;Tech+Enthusiast;Self-taught+JavaScript+%7C+Blockchain+Developer+%7C+IT+Content+Creator;" alt="Typing SVG" />
-</a>
-</p>
-<h1 align="center">📊 Most recent projects that I'm working on: ( 📅 Last Updated on Feb 25, 2023 )</h1>
-<br />
-&nbsp;
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=AskIboAi&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/AskIboAi) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=nextgeneration-storage&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/nextgeneration-storage) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=Realtime-Chat-App&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/Realtime-Chat-App)
-
-<br />
-
-<summary><strong>📫 How to reach me:</strong></summary>
-<span><a href="https://ibrahimio.codes"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="3.5%"/></a></span>&nbsp;&nbsp;
-<span><a href="https://www.linkedin.com/in/ibrahimbs/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a></span>&nbsp;&nbsp;
-<span><a href="https://twitter.com/MindH4Q3Rr"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a></span>&nbsp;&nbsp;
-<span><a href="https://www.instagram.com/mindh4q3r/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a></span>&nbsp;&nbsp;
-<span><a href="https://www.facebook.com/mindh4q3r"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></a></span>
-
-`📧 contact@programmerslife.site`<br/>
-`🏠 Tunisia`
-
-<br />
-
-<h3 align="center">Hi there 👋</h3>
+<h3>Hi there 👋</h3>
 
 <div align="center">
-<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Here's a little about me😃</h2></div>
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Here's a little about me😃</h2>
+</div>
 
 <p align="center">
     <a href="https://github.com/barhouum7"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" alt="PRs Welcome"></a> 
     <a href="https://github.com/barhouum7"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Lover"></a><br />
-    <!-- <a href="https://github.com/barhouum7"><img src="https://img.shields.io/github/followers/barhouum7.svg?label=Follow%20@barhouum7&style=social"></a> -->
-    <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=mindh4q3rr"><img src="https://img.shields.io/twitter/follow/mindh4q3rr?color=1DA1F2&logo=twitter&style=for-the-badge"></a>
-    <a href="https://github.com/barhouum7?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=barhouum7"><img src="https://img.shields.io/github/followers/barhouum7?color=1DA1F2&logo=github&style=for-the-badge"></a>
+    <a href="https://github.com/barhouum7"><img src="https://img.shields.io/github/followers/barhouum7.svg?label=Follow%20@barhouum7&style=social"></a>
+</p>  
+<p align="center">
+  <a target='_blank' href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=mindh4q3rr">
+    <img src="https://img.shields.io/twitter/follow/mindh4q3rr?color=1DA1F2&logo=twitter&style=for-the-badge" data-canonical-src="https://img.shields.io/twitter/follow/mindh4q3rr?color=1DA1F2&logo=twitter&style=for-the-badge"></a>
+    <a target='_blank' href="https://github.com/barhouum7?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=barhouum7"><img src="https://img.shields.io/github/followers/barhouum7?color=1DA1F2&logo=github&style=for-the-badge"></a>
 </p>
 <p align="center">
-    <a href="https://github.com/barhouum7?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=barhouum7"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbarhouum7%2Fbarhouum7" alt="Hits" /></a>
+    <a target='_blank' href="https://github.com/barhouum7?original_referer=https%3A%2F%2Fgithub.com%2Fbarhouum7&screen_name=barhouum7"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbarhouum7%2Fbarhouum7" alt="Hits" /></a>
     <!-- <a href="https://github.com/barhouum7"><img src="https://visitor-badge.glitch.me/badge?page_id=barhouum7.barhouum7" alt="visitors"></a> -->
 </p>
 
 <p align="center">
-    <img src="https://i.imgur.com/BEU0C5o.png" data-canonical-src="https://i.imgur.com/BEU0C5o.png" alt="coverImg"/><br>
-    <strong>I am a student currently pursuing a Bachelor's degree in Computer Science at the Higher Institute of Technological Studies of Tunisia. Experienced in Web Development using the most recent technologies, Linux System Administration, and Computer Networking. Also, I'm a Self-taught Programmer and I love the open-source world and try my best to contribute to it!</strong>
-</p><br>
+    <img src="https://i.imgur.com/BEU0C5o.png" data-canonical-src="https://i.imgur.com/BEU0C5o.png" alt="coverImg" style="width:100px; height: 140px" /><br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/barhouum7">
+    <img src="https://readme-typing-svg.demolab.com?font=GillSansMT&size=17&duration=1000&pause=1000&multiline=true&width=1000&height=150&lines=Ibrahim+BHMBS;Tech+Enthusiast;An aspiring self-taught full stack+web2.0%2FWeb3.0+Developer+%7C+IT+Content+Creator;Experienced in Web Development using the most recent technologies, Linux System Administration, ;and Computer Networking.;Open-source enthusiast who loves to collaborate and contribute!; ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎" alt="Typing SVG" />
+</a>
+</p>
+
+<br />
+
+<strong>📫 How to reach me:</strong><br />
+<span><a href="https://ibrahimio.codes"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="2.5%"/></a></span>&nbsp;&nbsp;
+<span><a href="https://www.linkedin.com/in/ibrahimbs/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2.5%"/></a></span>&nbsp;&nbsp;
+<span><a href="https://twitter.com/MindH4Q3Rr"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="2.5%"/></a></span>&nbsp;&nbsp;
+<span><a href="https://www.instagram.com/mindh4q3r/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="2.5%"/></a></span>&nbsp;&nbsp;
+<span><a href="https://www.facebook.com/mindh4q3r"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="2.5%"/></a></span>
+
+<h4>💼 Business Inquiries:</h4>
+
+`📧 contact@programmerslife.site`<br/><a href="mailto:contact@programmerslife.site?Subject=Hello%20again" target="_top"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> ✈</a><br/>
+`🏠 Tunisia`
+
+
+If you appreciate my work, maybe you could show your support by buying me a cup of coffee/tea ☕️🤗
+
+<a href="https://www.buymeacoffee.com/ProgrammersLife" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<br />
+
+<h1 align="center">📊 Most recent projects that I'm working on: ( 📅 Last Updated on Feb 25, 2023 )</h1>
+<div align="center">
+&nbsp;
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=AskIboAi&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/AskIboAi) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=nextgeneration-storage&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/nextgeneration-storage) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=Realtime-Chat-App&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/Realtime-Chat-App) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barhouum7&repo=MathUniverse&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/barhouum7/MathUniverse)
+
+</div>
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools</h3>
 
-<img align="left" alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="bash" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<img align="left" alt="linux" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Kubernetes" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Docker" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="c" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="php" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="SQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<div align="center">
+<code><img alt="GraphQL" width="20px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+<code><img alt="bash" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></code>
+<code><img alt="linux" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></code>
+<code><img alt="Kubernetes" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /></code>
+<code><img alt="Docker" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
+<code><img alt="Visual Studio Code" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img alt="Sass" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
+<code><img alt="Tailwindcss" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" /></code>
+<code><img alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
+<code><img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></code>
+<code><img alt="c" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></code>
+<code><img alt="python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
+<code><img alt="php" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
+<code><img alt="SQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
+<code><img alt="MySQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+<code><img alt="MongoDB" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
+<code><img alt="Git" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+
+</div>
 
 <!-- <h2>Skills</h2>
 <p>
@@ -106,9 +124,12 @@
 
 
 <br>
-Currently Coding & Listening to:
+Currently Coding & Listening to:  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31wlxxrbb3p66u6e57jrrg57edbe)
+&nbsp;<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wlxxrbb3p66u6e57jrrg57edbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31wlxxrbb3p66u6e57jrrg57edbe)
+</div>
 
 <!-- <a><img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" /></a>-->
 </details>
