@@ -1,5 +1,13 @@
+<p align="center"> 
+  <a href="https://github.com/barhouum7">
+    <img src="https://readme-typing-svg.demolab.com?font=GillSansMT&size=17&duration=3000&pause=500&multiline=true&width=650&height=80&lines=Ibrahim+BHMBS;Tech+Enthusiast;Self-taught+JavaScript+%7C+Blockchain+Developer+%7C+IT+Content+Creator;" alt="Typing SVG" />
+</a>
+</p>
 <div>
     <h1 align="center">📊 Most recent projects that I'm working on: ( 📅 Last Updated on Sep 20, 2021 )</h1>
+    <br />
+    <h3 align="center">AskIboAi is a ChatGPT AI App using Vanilla JavaScript built with OpenAI Davinci Codex Model
+    <br />Have a look at the Demo: https://ask-chatgpt.programmerslife.site</h3>
     <br />
     <h3 align="center">A <b><i>censorship-resistant</i></b> file storage Decentralized Application (Dapp) using <b><i>Ethereum Blockchain</i></b>
     <br />Have a look at the Demo: https://barhouum7.github.io/nextgeneration-storage/</h3>
@@ -102,10 +110,21 @@
 
 <h3 align="center">🔮 Ibrahim's Github Stats</h3>
 <details align="center">
-<summary></summary>
-<a>
-    <img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
-</a>
+<summary>📈 Stats</summary>
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barhouum7&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barhouum7&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barhouum7&theme=dracula)
+
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31wlxxrbb3p66u6e57jrrg57edbe)
+
+<!-- <a><img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" /></a>-->
 </details>
 <br />
 
