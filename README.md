@@ -128,7 +128,7 @@ Currently Coding & Listening to:
 
 &nbsp;<div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wlxxrbb3p66u6e57jrrg57edbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31wlxxrbb3p66u6e57jrrg57edbe)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kbc4l6fwya5mqmxbo5acvk6ji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/kbc4l6fwya5mqmxbo5acvk6ji)
 </div>
 
 <!-- <a><img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" /></a>-->
