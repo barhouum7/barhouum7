@@ -30,7 +30,6 @@
 </p>
 
 <br />
-
 <strong>📫 How to reach me:</strong><br />
 <span><a href="https://ibrahimio.codes"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="2.5%"/></a></span>&nbsp;&nbsp;
 <span><a href="https://www.linkedin.com/in/ibrahimbs/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2.5%"/></a></span>&nbsp;&nbsp;
@@ -108,13 +107,20 @@ If you appreciate my work, maybe you could show your support by buying me a cup 
 <br /><hr />
 <h3>📈Recent Activity:</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=barhouum7&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+</div>
+
+<div align="center">
+<br /><br />
+<a href="https://github.com/barhouum7">
+    <img src="https://github-stats-alpha.vercel.app/api?username=barhouum7&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+</div>
 
 <h3 align="center">🔮 Ibrahim's Github Stats</h3>
 <details align="center">
-<summary>📈 Stats</summary>
+<summary>📈 More Stats</summary>
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barhouum7&theme=dracula) 
