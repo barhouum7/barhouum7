@@ -118,11 +118,9 @@ If you appreciate my work, maybe you could show your support by buying me a cup 
 </a>
 </div>
 
-<h3 align="center">🔮 Ibrahim's Github Stats</h3>
-<details align="center">
-<summary>📈 More Stats</summary>
-<br>
-
+<h3 align="center">🔮 More Github Stats 📈</h3>
+<div align="center">
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barhouum7&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barhouum7&theme=dracula) 
@@ -138,7 +136,7 @@ Currently Coding & Listening to:
 </div>
 
 <!-- <a><img alt="Ibrahim's github stat" src="https://github-readme-stats.vercel.app/api?username=barhouum7&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" /></a>-->
-</details>
+</div>
 <br />
 
 <!--START_SECTION:waka-->
